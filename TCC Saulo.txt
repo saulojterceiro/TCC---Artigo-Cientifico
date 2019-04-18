@@ -7,7 +7,9 @@ Cep: 58046900.
 
 
 Referencias:
+Energia Escura:
 http://www.if.ufrgs.br/~fatima/ead/universo-atual.htm
+Fila Encadeada:
 http://www.ic.unicamp.br/~ra069320/PED/MC102/1s2008/Apostilas/Cap10.pdf
 
 
@@ -17,8 +19,10 @@ Energia Escura, Vácuo e Fila Encadeada
 O conceito atual que temos é que algo vazio é limitado a fazer nada, e apenas “ocupar espaço”, ou ser a falta dele. Mas na programação e computação, esse conceito fica mais distorcido.
 
 Se você não percebeu estamos falando do vácuo, e como nós imaginamos que ele não tem nenhuma função no universo. Mas algo chama atenção aos físicos, e toda a física. A Energia Escura, nós só percebemos que ela existia, quando depois da gravidade ser observada por Newton, e aprimorada por Einstein, chegamos a conclusão que o universo deveria estar se juntando, e fomos fazer o teste, e chegamos a uma conclusão curiosa. Na realidade os testes mostraram o contrário, estamos expandindo. E isso deixou a física incrédula até hoje.
+
 Com passar do tempo, fizemos testes para saber se algo estava acontecendo, se existia algo ali através da radiação eletromagnética. E chegamos a conclusão que existia nada. Curioso. E a partir daí, chegamos à conclusão que deve existir algo, para fazer essas experiencias ocorrem, e demos o nome para ela de Energia Escura.
-Ai que vem a fila encadeada, e orientação objeto. Se pensarmos bem, um
 
+Ai que vem a fila encadeada, e orientação objeto. Se pensarmos bem, uma fila encadeada é formada por três partes. Um ou vários dados que ela guarda, um ou vários outros nós (que são o que forma a fila encadeada) que ela guarda, e as funções que são suas “ações”, e comportamentos. Se imaginarmos o universo dessa forma, imaginarmos que toda matéria, tem dado, ponteiros e funções. Faria muito sentido. O dado seria, tudo que algo com massa guarda, elétrons prótons e nêutrons e suas propriedades, tudo que há massa. Os ponteiros seriam tudo ao seu redor. E as funções são tudo que eles fazem dentro do nosso universo.
 
+A partir desse pressuposto, imaginamos novamente o vácuo. O vácuo nesse pressuposto seria uma fila encadeada sem dados. Mas ainda assim teria funções e ponteiros. Função por exemplo de se multiplicar, com o passar do tempo. O que faria o universo se expandir, sem alterar a matéria. Como visto na Energia Escura.
 
